@@ -1,5 +1,7 @@
 
 ### Script to calculate trophic positions and run trophic position ~ body mass linear models
+## Accompanying Robinson & Baum (2016) CJFAS
+
 
 ### Functions for trophic position calculations
 
